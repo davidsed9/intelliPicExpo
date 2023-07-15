@@ -7,7 +7,7 @@ export default function App() {
   return (
     <WebView
       style={styles.container}
-      source={{ uri: 'https://intelli-pic-13-4.vercel.app/' }}
+      source={{ uri: 'https://intelli-pic-13-4.vercel.app/login' }}
     />
   );
 }
